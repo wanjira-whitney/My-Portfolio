@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 :root{
-    --main-color:#e38528;
+    --main-color:#f86c00;
 }
 *{
     font-family: sans-serif;
@@ -17,7 +17,7 @@ html{
     scroll-behavior:smooth;
 }
 body{
-    background: #FCF2E8;
+    background: #fef7f0;
     padding-left: 30rem;
 }
 section{
@@ -150,8 +150,6 @@ header .follow a:hover{
     flex:1 1 35rem;
 }
 .about .row-1 .image img{
-    height: 100%;
-    width:100%;
     object-fit: cover;
     border:1rem solid #fff;
     border-radius: .5rem;
@@ -188,7 +186,7 @@ header .follow a:hover{
     align-items: center;
 }
 .iam{
-    color: #E38528;
+    color: #f86c00;
 }
 .about .row-2 .skills .progress .bar span{
     display:block;
